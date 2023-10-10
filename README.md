@@ -1,19 +1,23 @@
-🎮🖥️ Desarrollador de Videojuegos y Frontend 🚀🎨
+## Bienvenido a mi perfil de GitHub
 
-¡Saludos! Soy **Anxo Asensio**, un profesional dedicado a la creación de experiencias digitales a través de la programación frontend y la narrativa visual. Mi enfoque es serio y comprometido, y me especializo en dos áreas apasionantes:
+Soy Anxo Asensio, un apasionado y creativo profesional con experiencia en diseño gráfico, desarrollo frontend y creación de videojuegos. Mi objetivo es combinar arte y tecnología para crear experiencias visuales cautivadoras.
 
-🎨 **Arte Visual:** Mi habilidad en diseño gráfico y animación da vida a la estética de los proyectos. Transformo conceptos en una estética visual sólida y atractiva, manteniendo un enfoque meticuloso en cada detalle.
+### Mis Especialidades
 
-💻 **Programación Frontend:** Como programador frontend, me esfuerzo por lograr que las interfaces de usuario sean intuitivas y atractivas. Mi objetivo es ofrecer soluciones tecnológicas sólidas y responsivas para brindar experiencias de usuario excepcionales.
+- **Diseño Gráfico:** Me apasiona la creación visual. Transformo ideas en obras de arte digitales, desde logotipos y ilustraciones hasta interfaces de usuario atractivas.
 
-🎮 **Desarrollo de Videojuegos:** Mi pasión por los videojuegos se traduce en la creación de juegos cautivadores. Poseo experiencia en el desarrollo de juegos 2D y 3D, siempre enfocado en la jugabilidad y la experiencia del jugador.
+- **Desarrollo Frontend:** Tengo una sólida experiencia en el desarrollo de interfaces de usuario elegantes y funcionales. Utilizo herramientas como React, Vue.js y Angular para crear experiencias web excepcionales.
 
-💡 **Buscando la Excelencia:** Siempre estoy buscando mejorar y aprender. Exploro las últimas tecnologías y tendencias para mantenerme actualizado en esta industria en constante evolución.
+- **Desarrollo de Videojuegos:** Mi amor por los videojuegos se refleja en la creación de juegos envolventes. Tengo experiencia en el desarrollo de juegos 2D y 3D, desde la concepción hasta la implementación.
 
-🛠️ **Herramientas que Domino:** HTML, CSS, JavaScript, Unity, C#, React, WebGL, Three.js, Photoshop, Blender y otras herramientas esenciales.
+### Herramientas y Tecnologías
 
-💬 **Colaboración y Comunicación:** Me enorgullece ser un colaborador eficaz en equipos multidisciplinarios. Creo en una comunicación abierta y una retroalimentación constructiva para alcanzar resultados excepcionales.
+- Diseño: Adobe Creative Suite (Photoshop, Illustrator), Blender.
+- Frontend: HTML, CSS, JavaScript, React, Vue.js, Angular.
+- Videojuegos: Unity, C#, WebGL, Three.js.
 
-Estoy siempre abierto a nuevas oportunidades y desafíos. Si buscas un profesional serio y comprometido con la creación digital, ¡estaré encantado de conectar contigo!
+### Cómo Contactarme
 
-¡Hablemos de cómo podemos llevar tus proyectos al siguiente nivel! 🎮✨
+Si deseas colaborar en proyectos de diseño gráfico, desarrollo frontend o desarrollo de videojuegos, no dudes en enviarme un mensaje a través de mi correo electrónico o mi perfil en GitHub. Estoy emocionado por la oportunidad de crear juntos.
+
+¡Hablemos y hagamos que tu visión cobre vida a través de la creatividad y la tecnología!
